@@ -12,6 +12,6 @@ We have Nextcloud and we have this Git-based wiki. Which parts of Open Source Ha
 
 ## Option Nr. 1 - The OSE-USA way 
 Save everything on the wiki, except for organising thoughts/starting new projects and Bills of materials, for which we would use nextcloud.
-This is an [example](https://fabcity.uber.space/Documenting%20OSH%20Option%20Nr.%201%20-%20The%20OSE-USA%20way%20-%20example.txt/)
+This is an [example](https://fabcity.uber.space/Documenting%20OSH%20Option%20Nr.%201%20-%20The%20OSE-USA%20way%20-%20example.txt/) Here, everytime google is used, we would use nextcloud.
 
 ## Option Nr. 2
