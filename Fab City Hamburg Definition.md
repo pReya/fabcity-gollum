@@ -1,0 +1,1 @@
+Fab City Hamburg is a consortium of about 30 actors such as makerspaces, schools, universities and public authorities. It is part of the Fab City Global Initiative, which consists of around 40 cities worldwide. Together, they aim at fabricating everything locally by mid-21-century by making use of digital fabrication technologies.
