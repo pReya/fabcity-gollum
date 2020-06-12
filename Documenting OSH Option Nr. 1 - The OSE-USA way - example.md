@@ -1,0 +1,86 @@
+=Introduction=
+*A Small [[D3D]] printer designed to be '''ESPECIALLY Easy to  Build''' , cheap, and as a tool to build other machines over time
+*'''Costs US$200-600 '''
+*Max Build Volume of 6x6x6 inches (150x150x150 mm)
+*Great as a First Printer, Clasroom All-in-One Device, or as a print farm componet
+*For more high end models see [[D3D]] and [[D3D Pro]]
+*[https://www.opensourceecology.org/d3d-universal-2/ We are now producing kits and finished machines]
+*Our next build workshops are: https://www.opensourceecology.org/workshops-and-programs/
+
+
+=Pictures=
+[[File:d3du.jpg|400px]]
+
+'''You can order a kit at https://www.opensourceecology.org/d3d-universal-2/'''
+
+
+=Development Template=
+{{devtemplate|0=D3D Universal|14=80|10=100|2=50|5=95|17=60|19=15|20=80|16=50|15=20|18=80|12=100|3=100|8=80|9=100|13=100|1=95}}
+
+=Design Concepts=
+
+==Plotter==
+*[[Pen Holder Toolhead]]
+*[[PCB Plotter]]
+embedded my website on wiki [https://feadi.github.io/OSE/ https://feadi.github.io/OSE/]. 
+
+Played with gtlf-viewer
+
+<html><iframe src="https://gltf-viewer.donmccurdy.com#kiosk=1&model=https://feadi.github.io/OSE/gltf/gltf/test01.glb" style="width: 800px;" height="600px" frameBorder="0"></iframe></html>
+
+=Wiring=
+<html><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmarcin.jakubowski.378%2Fposts%2F10217401078076065&width=500" width="500" height="379" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></html>
+
+=Troubleshooting=
+*'''[[D3D Universal Troubleshooting Guide]]''' - add videos
+
+Clog troubleshooting 1st step in checklist [https://youtu.be/09VkDHkd7NA]
+
+=FAQ=
+*[[D3D Universal FAQ]]
+
+=D3D Universal First Print Checklist=
+Assume we have power and correct motion - how do you assure the printer extruder is working properly? This is specific to extruder - outside of any other controller and system integration issues:
+
+#Check temperature of nozzle - look at LCD screen. Make sure 230C
+#If at temperature, load filament. Did it go in right away. If not take out filament - look down the hole and check alignment. Make sure the filament drive gear - perfectly aligns above heat break hole.
+#If 3 mm filament - make sure that it doesn't widen out at the cut and that it's 2.85 mm, not 3.0 mm
+#Easy flow if you push it in by hand.
+#Check the babystepping. For smooth flat first layer.
+#Make sure physical obstruction does not exist for print bed  going above end 3D printed pieces on bed.
+#Make sure you have thermal paste beteen heat sink and fan heat sink
+#Make sure you have theraml past - on the heat break into the heat sink
+#Make sure the fan is spinning.
+#Make sure the set screw is hight on extruder drive gear. 
+#Make sure the line on end of extruder shaft is spinning.
+#Check that filament is feeding through by marking with a white sharpie. Or feel by hand.
+#Make sure tension on spring is tight - put shims in the pocket if not.
+#Make sure the extruder tension screw is tight
+#Make sure that when you hold filament, it pulls hard - you can't stop it readily.
+#Make sure nozzle is below the plastic printed parts
+#Make sure height probe is ABOVE nozzle
+#Cut off the tip of heat sock.
+#Let printer extruder cool down before turning the fan off
+
+==Software First Print Checklist==
+#Make sure you have 1.75 or 2.85 on the filamnet size
+#Make sure you have Marlin Universal here
+#Make sure you have Marlin Universal .ini file.
+#Check that measurements of parts are correct in FreeCAD.
+
+=Working Doc=
+
+==Includes Review and Data Collection==
+<html><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOvWBdHZ8cYcGu1_brqbhbd7GpU_vYZjiu72ffANSg8Wl2LrdN7v8BjJixLS4FP_KVxLgdXlmpDh-o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></html>
+
+[https://docs.google.com/presentation/d/1W5hmlqCsap-q-SiPrjyBIqXnOrp_A4rFG1lPcPm5jfo/edit edit]
+
+=See Also=
+*'''[[D3D Universal Build Manual]]'''
+*'''[[D3D Universal Production Manual]]'''
+*[[D3D Universal Log]]
+*[[D3D Pro]]
+*[[D3D Simple]] - build from 2019
+*[[December 2019 Production Run]]
+*[[D3D Simple Kit Preparation]]
+*[[D3D Simple Wire Bundle Attachement]]
