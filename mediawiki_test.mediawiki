@@ -14,8 +14,6 @@
 '''You can order a kit at https://www.opensourceecology.org/d3d-universal-2/'''
 
 
-=Development Template=
-{{devtemplate|0=D3D Universal|14=80|10=100|2=50|5=95|17=60|19=15|20=80|16=50|15=20|18=80|12=100|3=100|8=80|9=100|13=100|1=95}}
 
 =Design Concepts=
 
@@ -26,10 +24,8 @@ embedded my website on wiki [https://feadi.github.io/OSE/ https://feadi.github.i
 
 Played with gtlf-viewer
 
-<html><iframe src="https://gltf-viewer.donmccurdy.com#kiosk=1&model=https://feadi.github.io/OSE/gltf/gltf/test01.glb" style="width: 800px;" height="600px" frameBorder="0"></iframe></html>
 
 =Wiring=
-<html><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmarcin.jakubowski.378%2Fposts%2F10217401078076065&width=500" width="500" height="379" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></html>
 
 =Troubleshooting=
 *'''[[D3D Universal Troubleshooting Guide]]''' - add videos
@@ -71,7 +67,7 @@ Assume we have power and correct motion - how do you assure the printer extruder
 =Working Doc=
 
 ==Includes Review and Data Collection==
-<html><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOvWBdHZ8cYcGu1_brqbhbd7GpU_vYZjiu72ffANSg8Wl2LrdN7v8BjJixLS4FP_KVxLgdXlmpDh-o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></html>
+
 
 [https://docs.google.com/presentation/d/1W5hmlqCsap-q-SiPrjyBIqXnOrp_A4rFG1lPcPm5jfo/edit edit]
 
