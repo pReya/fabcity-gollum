@@ -9,13 +9,13 @@
 
 
 =Pictures=
-[[File:d3du.jpg|400px]]
+
 
 '''You can order a kit at https://www.opensourceecology.org/d3d-universal-2/'''
 
 
 =Development Template=
-{{devtemplate|0=D3D Universal|14=80|10=100|2=50|5=95|17=60|19=15|20=80|16=50|15=20|18=80|12=100|3=100|8=80|9=100|13=100|1=95}}
+
 
 =Design Concepts=
 
