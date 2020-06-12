@@ -1,4 +1,4 @@
-=Introduction=
+=Introduction23=
 *A Small [[D3D]] printer designed to be '''ESPECIALLY Easy to  Build''' , cheap, and as a tool to build other machines over time
 *'''Costs US$200-600 '''
 *Max Build Volume of 6x6x6 inches (150x150x150 mm)
